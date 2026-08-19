@@ -11,7 +11,10 @@ HTML • CSS • JavaScript • C++ • Python • SQL • Git • GitHub
 Estou sempre buscando evoluir, criar novos projetos e transformar ideias em soluções através da tecnologia.
 
  <p align="left">
-      <a href="https://github.com/guilhermehenrique-exetab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.
+      <a href="https://github.com/guilhermehenrique-exetab?=followers">
+         <img 
+             alt="followers" 
+             title="Follow me on Github" 
+             src="https://custom-icon-badges.demonlab.com/github/followers/ForrestKnight?color=236ad3&labeColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
    </p>
 
