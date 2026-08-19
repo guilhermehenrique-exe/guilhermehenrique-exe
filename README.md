@@ -9,3 +9,9 @@ Tenho interesse em desenvolvimento web, programação, banco de dados e tecnolog
 HTML • CSS • JavaScript • C++ • Python • SQL • Git • GitHub
 
 Estou sempre buscando evoluir, criar novos projetos e transformar ideias em soluções através da tecnologia.
+
+ <p align="left">
+      <a href="https://github.com/guilhermehenrique-exetab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.
+   </p>
+
