@@ -26,7 +26,7 @@ Tenho interesse em desenvolvimento web, programação, banco de dados e tecnolog
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sx_guix/">
-<img src="https://skillicons.dev/icons?i=instagram" width="40" />
+<img src="https://skillicons.dev/icons?i=instagram" width="50" />
 </a>
 
 </div>
