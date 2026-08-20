@@ -46,7 +46,7 @@ Tenho interesse em desenvolvimento web, programação, banco de dados e tecnolog
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermehenrique-exe&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermehenrique-exe&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" width="59%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermehenrique-exe&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" width="55%" />
 
 <img src="https://streak-stats.demolab.com/?user=guilhermehenrique-exe&theme=tokyonight&locale=pt-br&hide_border=true" width="70%" />
 
