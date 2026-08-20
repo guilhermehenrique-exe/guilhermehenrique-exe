@@ -20,13 +20,13 @@ Tenho interesse em desenvolvimento web, programação, banco de dados e tecnolog
 <h3>Conecte-se comigo!</h3>
 
 <a href="mailto:guilherme.henriqueads.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/guilhermehnerique/"
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<a href="https://www.linkedin.com/in/guilhermehnerique/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sx_guix/">
-<img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
 </a>
 
 </div>
