@@ -22,7 +22,7 @@ Tenho interesse em desenvolvimento web, programação, banco de dados e tecnolog
 <a href="mailto:guilherme.henriqueads.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>&nbsp;&nbsp;
-<a href=https://www.linkedin.com/in/guilhermehnerique/
+<a href="https://www.linkedin.com/in/guilhermehnerique/"
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sx_guix/">
