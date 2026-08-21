@@ -1,57 +1,60 @@
-<div align="center">
+<h1 align="center">Olá, eu sou o(a) [SEU NOME] 👋</h1>
+<h3 align="center">Full-Stack Developer | [SUA STACK PRINCIPAL]</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,420&height=200&section=header&text=Guilherme%20Henrique&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=60&descSize=18" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Java-100%25-blue" />
+  <img src="https://img.shields.io/badge/TypeScript-85.5%25-blue" />
+  <img src="https://img.shields.io/badge/C%23-100%25-purple" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil+%E2%8A%B9" alt="Typing SVG">
-</a>
+---
 
-</div>
+### 🔗 Sobre mim
 
-#
+- 🚀 Projetos em andamento:
+  - `[NOME_DO_PROJETO]` — *in progress*
+- 📚 Atualmente aprendendo **Python / React Native**
+- 💼 Todos os meus projetos estão disponíveis no meu [Portfólio](https://SEU_USUARIO.github.io)
+- 💬 Pergunte-me sobre **Next.js / Programação Orientada a Objetos / Java**
+- 🌱 Curiosidade:
+  > Linus Torvalds, criador do Linux, desenvolveu o Git em poucos dias em 2005. Hoje é o sistema de versionamento mais usado no mundo, criado porque o BitKeeper deixou de ser gratuito para a comunidade.
 
-Olá! Me chamo Guilherme e sou estudante da área de Tecnologia da Informação, atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento de sistemas.
+---
 
-Tenho interesse em desenvolvimento web, programação, banco de dados e tecnologia, buscando sempre aprender novas ferramentas e colocar meus conhecimentos em prática por meio de projetos.
+### 📊 GitHub Stats
 
-#
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+</p>
 
-<div align="center">
-<h3>Conecte-se comigo!</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" />
+</p>
 
-<a href="mailto:guilherme.henriqueads.dev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/guilhermehnerique/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sx_guix/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram" />
-</a>
+---
 
-</div>
+### 🌐 Conecte-se comigo
 
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/SEU_CANAL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/SEU_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitch.tv/SEU_TWITCH"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+</p>
 
-## 💻 Tecnologias de afinidade
+---
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,py,c,git,github&theme=dark" />
-</div>
+### 🛠️ Linguagens e Ferramentas
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,java,spring,cs,dotnet,vue,html,css,bootstrap,laravel,vscode,idea,npm,git,github,mysql,postgres" />
+</p>
 
-## 📊 Minhas Estatísticas no GitHub
+---
 
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermehenrique-exe&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermehenrique-exe&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=guilhermehenrique-exe&theme=tokyonight&locale=pt-br&hide_border=true" width="70%" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,420&height=100&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
