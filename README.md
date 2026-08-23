@@ -39,10 +39,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehenrique-exe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-> 💡 Troque SEU_USUARIO pelo seu usuário do GitHub nos links das estatísticas acima.
+
 
 ---
 
