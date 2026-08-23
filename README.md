@@ -8,10 +8,10 @@
 
 ### 🔗 Sobre mim
 
-- 🚀 Projetos em andamento: *[nome do projeto]*
-- 📚 Atualmente aprendendo: *[tecnologia]*
+- 🚀 Projetos em andamento: **[nome do projeto]**
+- 📚 Atualmente aprendendo: **[tecnologia]**
 - 💼 Todos os meus projetos estão no meu [Portfólio](#)
-- 💬 Pergunte-me sobre: *[assuntos]*
+- 💬 Pergunte-me sobre: **[assuntos]**
 - 📍 [Cidade - Estado]
 
 ---
@@ -35,14 +35,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermehenrique-exe&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=guilhermehenrique-exe&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehenrique-exe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilhermehenrique-exe&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
 
 ---
 
