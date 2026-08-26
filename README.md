@@ -8,7 +8,7 @@
 
 ### 🔗 Sobre mim
 
-- 🚀 Projetos em andamento: **[nome do projeto]**
+- 🚀 Projetos em andamento: 
 - 📚 Atualmente estudando: Análise e Desenvolvimento de Sistemas
 - 💼 Todos os meus projetos estão no meu [Portfólio](#)
 - 📍 Itaquaquecetuba, São Paulo
